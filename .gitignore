@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#Idea
+.idea/
+
+#Comandos
+comandos_usados.txt
+
+#Almacenamiento
+backend/.env
+.venv/
+*.pyc
+backend/storage/
